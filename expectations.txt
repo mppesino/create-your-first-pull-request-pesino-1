@@ -6,4 +6,5 @@ I expect to learn a lot in CMSC 100, and to utilize Git to its fullest potential
 Specifically, I expect to learn:
 	- How to make websites and webpages
 	- How to integrate this with a web server so others can see
-
+    - How to collaborate with others via Git and GitHub
+    - How to work in a team by having offline workflows with Git
