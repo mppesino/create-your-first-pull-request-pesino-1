@@ -8,3 +8,5 @@ Specifically, I expect to learn:
 	- How to integrate this with a web server so others can see
     - How to collaborate with others via Git and GitHub
     - How to work in a team by having offline workflows with Git
+
+Lanao: I agree, I am looking forward to learn those things as well.
